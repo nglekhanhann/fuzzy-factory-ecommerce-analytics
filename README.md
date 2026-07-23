@@ -73,13 +73,13 @@ fuzzy-factory-ecommerce-analytics/
 ![Overview dashboard](assets/overview.png)
 
 ### Channel & Device
-![Channel and device dashboard](assets/channel-device.png)
+![Channel and device dashboard](assets/Channel%20and%20device%20dashboard.png)
 
 ### On-site Funnel
-![On-site funnel dashboard](assets/onsite-funnel.png)
+![On-site funnel dashboard](assets/on-site-funnel.png)
 
 ### Product & Quality
-![Product and quality dashboard](assets/product-quality.png)
+![Product and quality dashboard](assets/product%20and%20quality%20dashboard.png)
 
 ### Recommendations
 ![Recommendations dashboard](assets/recommendations.png)
