@@ -51,9 +51,9 @@ fuzzy-factory-ecommerce-analytics/
 ├── .gitignore
 ├── assets/
 │   ├── overview.png
-│   ├── channel-device.png
-│   ├── onsite-funnel.png
-│   ├── product-quality.png
+│   ├── Channel and device dashboard.png
+│   ├── on-site-funnel.png
+│   ├── product and quality dashboard.png
 │   └── recommendations.png
 ├── data/
 │   └── README.md
